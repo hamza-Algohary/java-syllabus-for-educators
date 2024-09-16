@@ -9,16 +9,19 @@
     - Program 4: Calculate area of a rectangle.
     - Program 5: Determine whether a number is even or odd.
     - Comments Exercise: Put credits and notes into your code.
+    - Some tips.
     - Program 6: Divide two integers.
     - Discussion: Data types have different sizes.
+    - Discussion: Everything is a number
 - Input
     - Program 7: Greet the user by his name.
     - Program 8: Ideal weight calculator.
     - Program 9: Account Sign Up form.
-- Conditionals & Loops
+- Decision Making
     - Program 10: Comparing numbers, playing with booleans.
     - Program 11: Checking whether password is correct.
     - Program 12: Grading system.
+- Loops
     - Program 13: Print "Hello World" 100 times.
     - Program 14: Check password until it's correct (Might change).
     - Program 15: Print "Hello World" 100 times again.
@@ -31,7 +34,18 @@
     - Program 19: Calculate Area of rectangle. Again!
     - Program 20: 
 - Exceptions
+- Object Oriented Programming
+    - Classes & Objects
+    - Encapsulation
+    - Constructors
+    - More on Classes and Objects
+    - Tip: Don't use uninitialized objects (references actually)
+    - Inheritance & Polymorphism
+    - Interfaces & Abstract Classes
+    - Anonymous Classes
+    - Discussion: Value Types vs Reference Types (Needs serious revision)
 
+- Project: Top Down Shooter Game?
 
 ### More Topics
 ### Must Know APIs
@@ -66,6 +80,7 @@
 ### Some tips
 - Assignment operators: += , -= , *= , /= , %=
 - Increment and decrement operators: ++ , --
+- Modulus only works with integers.
 
 ### Exercise 1: Add notes, description and credits to your previous programs
 - Single line comments
@@ -73,7 +88,6 @@
 - Uses of comments: explaination, documentation, credits, notes, etc.
 
 ### Program 6: Divide two integers
-- Modulus only works with integers.
 - Dividing two integers yeilds an integer.
 - casting.
 
@@ -192,6 +206,9 @@
     - A contstructor is a function that runs when an object is made.
     - Constructors can take arguments.
     - Constructors can be overloaded
+### More on Classes and Objects
+    - final revisited
+    - static explained
 ### Don't use uninitialized objects (references actually)
     - NullPointerException Quick Look (Don't go into any detail, just the basic case)
     - creating an array of objects
@@ -208,20 +225,19 @@
     - Implementing an interface
     - Making a function that accepts an interface implementor
     - Abstract classes
-### More on Classes and Objects
-    - final revisited
-    - static explained
-    - inner classes
 ### Anonymous Classes
     - anonymous class
     - anonymous interface implementation (Probably also called anonymous class)
-### Value Types vs Reference Types (Needs serious revision)
+### Discussion: Value Types vs Reference Types (Needs serious revision)
     - All primitive types are stored by value and all objects are stored by reference.
     - Demonstrate the difference between the two by modifying each from a function.
     - Arrays are stored by reference.
     - You can always reassign arrays.
     - Exercise: Make a function that increases the capacity of an array.
     - References themselves are passed by value (Needs reconsideration)
+
+
+### Project: Top Down Shooter Game.
 
 # More Topics
 - More on access modifiers
@@ -236,6 +252,7 @@
     - Uninitialized String can cause a NullPointerException
     - StackOverFlow
 - Tips and Tricks
+    - inner classes
     - switch
     - Important Note: You should the scanner once you're done with it. (Try to research the reason in detail.)
     - How to check for equality between floating point numbers.
@@ -248,146 +265,42 @@
     - range-based for loop
     - Enums
     - Recursion
-    - Lambdas
+    - Runnable & Lambdas
     - Multi-line strings
 - Simple Design Tips and Tricks (To be embedded in the project)
     - Avoid big methods, break big methods into shorter methods.
     - Singletons are a thing, because everything in java has to be in a class.
+- Must know APIs
+    - File I/O
+        - `FileInputStream` , `FileOutputStream` or a better way.
+        - Using `FileOutputStream` with `PrintWriter`.
+        - Using `FileInputStream` with `Scanner`.
+    - Text Parsing
+        - Parsing `String` with `Scanner`
+    - `Math`
+    - `StringBuilder`
+    - Collections
+- Good To Know APIs
+    - DateTime
+    - FileSytem
+    - Preferences
+    - Networking
+- Deeper Topics
+    - `Object`
+    - Generics
+    - Program: Writing our own ArrayList
+    - Reflection
+- Side Topics
+    - Overview of other programming languages.
+    - Using terminal.
+    - Compiling code from command line.
+    - Build systems
+    - Git.
 
-# Must know APIs
-- File I/O
-    - `FileInputStream` , `FileOutputStream` or a better way.
-    - Using `FileOutputStream` with `PrintWriter`.
-    - Using `FileInputStream` with `Scanner`.
-- Text Parsing
-    - Parsing `String` with `Scanner`
-- `Math`
-- `StringBuilder`
-- Collections
+- Discussion Topics
+    - Compilers in general.
+    - Obstables for writing once run everywhere (in general sense, not in java sense.)
+    - Comparison between Python, Java and C++ compilation models.
+    - Memory Management and the point of garbage collection.
+    - Binary & 2's complement. 
 
-# APIs Worth mentioning
-- DateTime
-- FileSytem
-- Preferences
-- Networking
-
-# More Topics
-- `Object`
-- Generics
-Program: Writing our own ArrayList
--Reflection
-
-# Additional Topics
-- Overview of other programming languages.
-- Using terminal.
-- Compiling code from command line.
-- Build systems
-- Git.
-
-# Nice to go through
-
-# Addititional Topics
-- Compilers in general.
-- Obstables for writing once run everywhere (in general sense, not in java sense.)
-- Comparison between Python, Java and C++ compilation models.
-- Memory Management and the point of garbage collection.
-- Binary & 2's complement. 
-# Concepts
-## From Keywords
-- Access Modifiers
-- Abstract Classes
-- Inheritance & Polymorphism
-- Interfaces
-- Final for members and classes
-- Static members
-- Serialization
-- Threads Synchronization 
-- Marking methods as throwers
-- Booleans
-- Numerical Data Types
-- char
-- void functions
-- arrays
-- types sizes
-- classes
-- Enums
-- Packages
-- Type inference
-- Conditionals
-- Loops
-- Exceptions
-- return values and types
-- this
-- super
-- true, false
-- uninitialized references
-- importing local or standard library packages
-- Instantiation
-## Others
-- constructors
-- getters and setters (encapsulation)
-- method overloading
-- Arrays
-- Multi-D arrays
-- methods
-- Packages
-- Casting, upcasting and down casting
-- Generics
-- Anonymous Classes
-- Recursion
-- passing by value?
-- Custom Objects in set and map keys
-- Complex Data Structures
-- Lambdas
-## APIs
-### Classes
-- String
-    - `+`
-    - `get()`
-    - `charAt()`
-    - `size()`
-    - `replace()`
-    - multi-line strings
-    - escape sequences
-- System.out
-    - print()
-    - println()
-- Scanner
-    - `next()`
-    - `nextInt()`
-    - `nextChar()`
-    - `nextFloat()`
-    - `next*()`
-- LinkedList
-- ArrayList
-- HashMap
-- HashSet
-- Math
-    - mathematical functions
-    - `random()`
-- StringBuilder
-- Object
-    - `toString()`
-    - `equals()`
-- *Files I/O*
-
-### Interfaces
-- Set
-- Map
-- Runnable
-- Iterables
-
-### Topics
-- DateTime
-- FileSytem
-- Preferences
-- Networking
-
-### Advanced Topics
-- Threads
-
-## Theoretical Topics
-- Compilers in general
-- Approaches to creating cross platform languages
-    - Challenges to cross platform development
-        - Instruction sets & CPU architecures
