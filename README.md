@@ -47,10 +47,6 @@
 
 - Project: Top Down Shooter Game?
 
-### More Topics
-### Must Know APIs
-### Even More Topics
-
 # Outline
 ### Program 1: Introduce Yourself
 - println()
