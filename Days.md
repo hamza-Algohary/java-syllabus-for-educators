@@ -47,15 +47,15 @@ For total of: 16 days or 32 hours
     - Encapsulation
 
 ### Day 6 or 7
-    - Constructors
-    - More on Classes and Objects
-    - Tip: Don't use uninitialized objects (references actually)
+- Constructors
+- More on Classes and Objects
+- Tip: Don't use uninitialized objects (references actually)
 ### Day 7 or 8
-    - Inheritance & Polymorphism
+- Inheritance & Polymorphism
 ### Day 9
-    - Interfaces & Abstract Classes
-    - Anonymous Classes
-    - Discussion: Value Types vs Reference Types (Needs serious revision)
+- Interfaces & Abstract Classes
+- Anonymous Classes
+- Discussion: Value Types vs Reference Types (Needs serious revision)
 
 ### Day 10 to 13, (Max to 16)
 - Project: Top Down Shooter Game?
