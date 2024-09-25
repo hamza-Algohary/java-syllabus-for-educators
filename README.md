@@ -189,49 +189,48 @@
 - Throw an exception
 
 ### Classes & Objects
-    - An object is anything you want to imagine. An object has information and behaviour.
-    - A class is a type. define a class (Human for example), and put in his data and behaviour.
-    - Data is represented by variables, actions are represented by functions/methods.
-    - Instiate an object, and use it.
-    - Exercises: Define multiple other classes and use them (Example: Car, Animal, and another thing they should think about.)
+- An object is anything you want to imagine. An object has information and behaviour.
+- A class is a type. define a class (Human for example), and put in his data and behaviour.
+- Data is represented by variables, actions are represented by functions/methods.
+- Instiate an object, and use it.
+- Exercises: Define multiple other classes and use them (Example: Car, Animal, and another thing they should think about.)
 ### Encapsulation
-    - public vs private.
-    - getters and setters.
-    - this
+- public vs private.
+- getters and setters.
+- this
 ### Constructors
-    - A contstructor is a function that runs when an object is made.
-    - Constructors can take arguments.
-    - Constructors can be overloaded
+- A contstructor is a function that runs when an object is made.
+- Constructors can take arguments.
+- Constructors can be overloaded
 ### More on Classes and Objects
-    - final revisited
-    - static explained
+- final revisited
+- static explained
 ### Don't use uninitialized objects (references actually)
-    - NullPointerException Quick Look (Don't go into any detail, just the basic case)
-    - creating an array of objects
+- NullPointerException Quick Look (Don't go into any detail, just the basic case)
+- creating an array of objects
 ### Inheritance & Polymorphism
-    - Overriding methods
-    - super
-    - Show that overriden method works regardless of the reference.
-    - calling super constructor
-    - All classes inherit from Object
-    - Polymorphism (Parent reference can point to child) (Or child can act like a parent)
-    - Making a function that accepts parent.
+- Overriding methods
+- super
+- Show that overriden method works regardless of the reference.
+- calling super constructor
+- All classes inherit from Object
+- Polymorphism (Parent reference can point to child) (Or child can act like a parent)
+- Making a function that accepts parent.
 ### Interfaces & Abstract Classes
-    - Creating an interface
-    - Implementing an interface
-    - Making a function that accepts an interface implementor
-    - Abstract classes
+- Creating an interface
+- Implementing an interface
+- Making a function that accepts an interface implementor
+- Abstract classes
 ### Anonymous Classes
-    - anonymous class
-    - anonymous interface implementation (Probably also called anonymous class)
+- anonymous class
+- anonymous interface implementation (Probably also called anonymous class)
 ### Discussion: Value Types vs Reference Types (Needs serious revision)
-    - All primitive types are stored by value and all objects are stored by reference.
-    - Demonstrate the difference between the two by modifying each from a function.
-    - Arrays are stored by reference.
-    - You can always reassign arrays.
-    - Exercise: Make a function that increases the capacity of an array.
-    - References themselves are passed by value (Needs reconsideration)
-
+- All primitive types are stored by value and all objects are stored by reference.
+- Demonstrate the difference between the two by modifying each from a function.
+- Arrays are stored by reference.
+- You can always reassign arrays.
+- Exercise: Make a function that increases the capacity of an array.
+- References themselves are passed by value (Needs reconsideration)
 
 ### Project: Top Down Shooter Game.
 
