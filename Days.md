@@ -24,21 +24,22 @@ For total of: 16 days or 32 hours
     - Program 10: Comparing numbers, playing with booleans.
     - Program 11: Checking whether password is correct.
     - Program 12: Grading system.
+    - Program 13: Checking whether a person is within a certain age range
 ### Day 3 
 - Loops
-    - Program 13: Print "Hello World" 100 times.
-    - Program 14: Check password until it's correct (Might change).
-    - Program 15: Print "Hello World" 100 times again.
+    - Program 14: Print "Hello World" 100 times.
+    - Program 15: Check password until it's correct (Might change).
+    - Program 16: Print "Hello World" 100 times again.
     - Discussion: Scope and name masking.
 ### Day 3 or 4
 - Arrays & Multi Dimensional Arrays
-    - Program 16: Calculate average of heights of 10 students
-    - Program 17:
+    - Program 17: Calculate average of heights of 10 students
+    - Program 18:
 ### Day 5
 - Functions/Methods
-    - Program 18: Introduce Yourself. Again!
-    - Program 19: Calculate Area of rectangle. Again!
-    - Program 20: 
+    - Program 19: Introduce Yourself. Again!
+    - Program 20: Calculate Area of rectangle. Again!
+    - Program 21: 
 - Exceptions
 
 ### Day 6

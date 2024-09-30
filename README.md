@@ -21,18 +21,19 @@
     - Program 10: Comparing numbers, playing with booleans.
     - Program 11: Checking whether password is correct.
     - Program 12: Grading system.
+    - Program 13: Checking whether a person is within a certain age range
 - Loops
-    - Program 13: Print "Hello World" 100 times.
-    - Program 14: Check password until it's correct (Might change).
-    - Program 15: Print "Hello World" 100 times again.
+    - Program 14: Print "Hello World" 100 times.
+    - Program 15: Check password until it's correct (Might change).
+    - Program 16: Print "Hello World" 100 times again.
     - Discussion: Scope and name masking.
 - Arrays & Multi Dimensional Arrays
-    - Program 16: Calculate average of heights of 10 students
-    - Program 17:
+    - Program 17: Calculate average of heights of 10 students
+    - Program 18:
 - Functions/Methods
-    - Program 18: Introduce Yourself. Again!
-    - Program 19: Calculate Area of rectangle. Again!
-    - Program 20: 
+    - Program 19: Introduce Yourself. Again!
+    - Program 20: Calculate Area of rectangle. Again!
+    - Program 21: 
 - Exceptions
 - Object Oriented Programming
     - Classes & Objects
@@ -128,25 +129,29 @@
 - if else if else
 - Exercise: Give a grade to students like (A,B,C,F) based on their marks.
 
-### Program 13: Print "Hello World" 100 times
+### Program 13: Checking whether a person is within a certain age range
+- Logical operators && || ! (Try forming logical expressions and storing them in booleans)
+- Use logical operators in if
+
+### Program 14: Print "Hello World" 100 times
 - while
 - while(\<any condition\>)
 - Try changing the condition within the loop.
 - Print "Hello World" 100 times.
 - Verify that you did it 100 times. (hint: print i)
 - Infinite loops. while(true)
-### Program 14: Check password until it's correct (Might change)
+### Program 15: Check password until it's correct (Might change)
 - Try it using while first.
 - do .. while
 
-### Program 15: Print "Hello World" 100 times again.
+### Program 16: Print "Hello World" 100 times again.
 - for
 - Probably more details as well.
 > Note: Put nested for-loops either here or with 2d arrays with a separate and good example.
 
 ### Discussion: Scope and name masking.
 
-### Program 16: Calculate average of heights of 10 students
+### Program 17: Calculate average of heights of 10 students
 - Declare an array of integers.
 - Accessing array elements.
 - Note: Arrays are zero-indexed.
@@ -156,7 +161,7 @@
 - Print the array using a loop.
 - Calculate the average of that array and print it.
 
-### Program 17: Something for 2D arrays
+### Program 18: Something for 2D arrays
 - An array of arrays (2D arrays)
 - declaration
 - indexing
@@ -164,7 +169,7 @@
 - printing the array
 - Higher dimensional arrays overview
 
-### Program 18: Introduce Yourself. Again!
+### Program 19: Introduce Yourself. Again!
 - A function is a routine (static void)
 - "Function" and "method" are synonymous (in java)
 - Exercise: Make function `introduceYourSelf()` and call it in multiple places. 
@@ -172,15 +177,15 @@
 - Exercise: Modify the `introduceYourSelf()` function to to take name, age, etc. as arguments.
 - Scope Revisited.
 
-### Program 19: Calculate Area of rectangle. Again!
+### Program 20: Calculate Area of rectangle. Again!
 - A function can return something.
 - Exercise: make `areaOfRectangle()` function.
 
-### Program 20: Maybe Some Helper Functions?
+### Program 21: Maybe Some Helper Functions?
 - Overloading functions.
 
 
-### Program 21: Exceptions (Probably, no program is needed here.)
+### Program 22: Exceptions (Probably, no program is needed here.)
 - An exception is basically an error.
 - Trigger some exceptions. (DivisionByZero, ArrayOutOfBounds)
 - catch the exception
