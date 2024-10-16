@@ -78,6 +78,8 @@
 - Assignment operators: += , -= , *= , /= , %=
 - Increment and decrement operators: ++ , --
 - Modulus only works with integers.
+- Difference Between Statements and Expressions
+- Always avoid Hard coding and be generic.
 
 ### Exercise 1: Add notes, description and credits to your previous programs
 - Single line comments
