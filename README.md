@@ -60,7 +60,7 @@
 
 ### Program 3: Storing data
 - int
-- float
+- double
 - boolean
 - char
 - String
@@ -69,7 +69,7 @@
 - final
 
 ### Program 4: Calculate area of a rectangle
-- Arithmetic operations +,-*,/
+- Arithmetic operations +,-,*,/
 
 ### Program 5: Even or Odd?
 - Modulus %
