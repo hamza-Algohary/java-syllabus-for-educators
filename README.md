@@ -1,3 +1,8 @@
+
+Presentations slides are available [here](presentations)
+Summary is available [here](Summary.md)
+
+
 # Overview
 ### Basics
 - Introduction to Programming, and environment setup.
