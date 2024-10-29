@@ -2,7 +2,7 @@
 # Important Links
 - [Presentations slides](presentations) <br>
 - [Summary](Summary.md)<br>
-- [Lecture Recordings](videos)
+- [Lecture Recordings](videos.md)
 
 # Overview
 ### Basics
