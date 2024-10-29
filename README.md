@@ -1,7 +1,8 @@
 
-Presentations slides are available [here](presentations) <br>
-Summary is available [here](Summary.md)
-
+# Important Links
+- [Presentations slides](presentations) <br>
+- [Summary](Summary.md)<br>
+- [Lecture Recordings](videos)
 
 # Overview
 ### Basics
