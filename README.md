@@ -3,7 +3,7 @@
 - [Presentations slides](presentations) <br>
 - [Summary](Summary.md)<br>
 - [Lecture Recordings](videos.md)<br>
-- [Plan](days.md)<br>
+- [Plan](Days.md)<br>
 
 # Overview
 ### Basics
