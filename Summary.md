@@ -54,3 +54,53 @@ Fractional Types:
 - Charachters are representable as numbers.
 - True can be one and False can be zero.
 - You can also represent colors as numbers.
+
+# Day 2
+### Getting user input
+- Copy the following code.
+```java
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // insert your code here
+
+    }
+}
+```
+- Replace the comment with your code.
+- Some functions to get user input
+    - `next()` (for String)
+    - `nextInt()`
+    - `nextDouble()`
+    - `nextChar()` 
+- Example:
+    ```java
+    int x = scanner.nextInt();
+    ```
+
+### Comparison operators
+- `>`  greater than?
+- `<`  less than?
+- `>=` greater than or equal?
+- `<=` less than or equal?
+- `==` is equal?
+- `!=` is not equal?
+- Avoid comparing floating point numbers.
+
+> [!IMPORTANT]
+> `if` and `else` are used for decision making.<br>
+> ```java
+> if (condition) {
+>     // do something
+> } else {
+>     // do another thing
+> }
+> ```
+
+### Logical operators:
+- `&&` (AND)
+- `||` (OR)
+- `!`  (NOT)

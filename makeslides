@@ -1,0 +1,3 @@
+#!/bin/bash
+marp presentations/day$1/day$1.md
+marp presentations/day$1/day$1.md --pdf
