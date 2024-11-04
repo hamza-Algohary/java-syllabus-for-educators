@@ -151,6 +151,11 @@
 - Try it using while first.
 - do .. while
 
+The code (in three different ways):
+    - [code 1](code/program15.1/Main.java)
+    - [code 2](code/program15.2/Main.java)
+    - [code 3](code/program15.3/Main.java)
+
 ### Program 16: Print "Hello World" 100 times again.
 - for
 - Probably more details as well.
