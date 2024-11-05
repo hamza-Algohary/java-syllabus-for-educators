@@ -2,7 +2,7 @@
 # Important Links
 - [Presentations slides](presentations) <br>
 - [Summary](Summary.md)<br>
-- [Lecture Recordings](videos.md)<br>
+- [Lecture Recordings](https://www.youtube.com/playlist?list=PL-TlZ7vdboMYCPfx7xZP6Cg7Mz5jwRQf0)<br>
 - [Plan](Days.md)<br>
 
 # Overview
