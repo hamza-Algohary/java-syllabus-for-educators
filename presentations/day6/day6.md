@@ -18,15 +18,15 @@ theme: default
 ---
 
 ## A class has properties and behavior.
-    ⁃ Properties are represented by variables
-    ⁃ Behavior is represented by functions
+⁃ Properties are represented by variables
+⁃ Behavior is represented by functions
 
 --- 
 
 ## Create a class, instantiate it and use it.
-    ⁃ You can create it in the same file or another file
-    ⁃ A file may only contain one public class
-    ⁃ Exercise classes: Human, Animal, Car.
+⁃ You can create it in the same file or another file
+⁃ A file may only contain one public class
+⁃ Exercise classes: Human, Animal, Car.
 
 ---
 
